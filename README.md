@@ -15,9 +15,3 @@ This project is a web server that runs on an RP2040 and allows users to control 
 4. Once the script is running, it will connect to the specified Wi-Fi network and print its IP address.
 5. Open a web browser and navigate to the IP address of the RP2040 to access the RGB Color Picker web page.
 6. Use the color palette and brightness slider on the web page to control the hue and brightness of the LED strip.
-
-## Author
-Akuma Ukpo
-
-## Date
-7/11/23
